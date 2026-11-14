@@ -64,7 +64,7 @@ Works on Linux, macOS and Windows.
 ### 2. Run it
 
 ```bash
-git clone https://github.com/<you>/inbox-sweep.git
+git clone https://github.com/Drunk0Smurf/emailsweep.git
 cd inbox-sweep
 python3 inbox_sweep.py
 ```
